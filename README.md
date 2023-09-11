@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceld&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aceld&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aceld&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnandrelee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cnandrelee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cnandrelee&theme=github)
 
 
 
